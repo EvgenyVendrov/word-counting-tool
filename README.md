@@ -1,2 +1,3 @@
 # word-counting-tool
-a quite simple tool to count words from a .txt file in python, based on google's exercises from "Google's Python Class"
+based on the Google's Python Class Exercises -  wordcount.py https://developers.google.com/edu/python/dict-files
+
